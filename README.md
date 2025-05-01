@@ -1,6 +1,3 @@
-# driving-service-website  
-A custom WordPress website designed for **driving service providers**, focused on delivering a smooth, user-friendly experience. With a responsive layout, service listings, and integrated booking forms, the site helps convert visitors into paying customers.
-
 # 🚗 Driving Service Website – [Live Website](https://egdrivingschool.com.au/)
 
 ---
@@ -46,10 +43,10 @@ Developed with performance and usability in mind, the website ensures users can 
 ---
 
 ## 🚘 Business Impact  
-- ✅ Enables easy session booking for new and returning learners  
-- ✅ Highlights services and driving packages with clarity  
-- ✅ Builds trust through professional design and fast user experience  
-- ✅ Scalable backend for future content and service updates
+- Enables easy session booking for new and returning learners  
+- Highlights services and driving packages with clarity  
+- Builds trust through professional design and fast user experience  
+- Scalable backend for future content and service updates
 
 ---
 
